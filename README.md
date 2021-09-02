@@ -3,7 +3,6 @@
 #Índice
 - [Demo](#demo)
 - [➡️ About](#️-about)
-- [In this project, a mini virtual pizza shop was created, to train modal (lateral) skills, add quantities, add products, add etc..](#in-this-project-a-mini-virtual-pizza-shop-was-created-to-train-modal-lateral-skills-add-quantities-add-products-add-etc)
 - [🚀 Technologies used](#-technologies-used)
 - [📥 How to use](#-how-to-use)
 
@@ -18,10 +17,14 @@ https://tayse.000webhostapp.com/project/jsPizza
 ## ➡️ About
 <b>Portugues:</b>
 O projeto foi desenvolvido com a intenção de ser uma **base de conhecimento** para consultas de iniciantes na área de ** Javascript **, tanto para minhas futuras consultas rápidas, como para outros desenvolvedores JS que por ventura esqueceram como se faz alguma funcionalidade.
+Neste projeto foi realizado uma mini loja virtual de pizza, para treinar habilidades de modal(lateral), adicionar quantidades, adicionar produtos, somar etc..
+
 
 <b>English:</b>
-The project was developed with the intention of being a ** knowledge base ** for queries from beginners in the ** React Native ** area, both for my future quick queries, and for other React Native developers who perhaps forgot how to does some functionality.
+The project was developed with the intention of being a **knowledge base** for beginners' queries in the area of ** Javascript **, both for my future quick queries, as well as for other JS developers who have perhaps forgotten how to do something functionality.
 In this project, a mini virtual pizza shop was created, to train modal (lateral) skills, add quantities, add products, add etc..
+
+
 ---
 
 ## 🚀 Technologies used
